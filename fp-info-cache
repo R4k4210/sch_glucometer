@@ -1,4 +1,4 @@
-20159274791866438
+20160925545678240
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85653,6 +85653,13 @@ varistor SIOV
 2
 esp32_devkit_v1_doit
 esp32_devkit_v1_doit
+ESPWROOM32, ESP32, 30 GPIOs version
+
+0
+30
+30
+esp32_devkit_v1_doit
+esp32_devkit_v1_doit_own_ESP
 ESPWROOM32, ESP32, 30 GPIOs version
 
 0
